@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo general */
+body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to bottom, #f8fafc, #e7ebf0);
+  color: #334155; /* Gris oscuro */
+  margin: 0;
+  padding: 0;
+}
+
+
+
+  
+
+
+
